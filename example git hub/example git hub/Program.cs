@@ -7,6 +7,9 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("oh shit");
             Console.WriteLine("추가 작업1");
+            추가작업 2
+
+                추가작업 3
         }
     }
 }
